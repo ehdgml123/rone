@@ -1,0 +1,302 @@
+.sub_main{
+    font-family: 'Abel', 'Nexon Gothic', 'Apple SD Gothic Neo', 'Malgun Gothic', 'Nanum Gothic', 'Noto Sans', 'sans-serif';
+}
+
+.sub_left1{
+     
+     width: 100px;
+     position: relative;
+     top: 10px;
+     left: 800px;
+}
+
+.box_ti1{
+    float: right;
+    position: relative;
+    top: -950px;
+    left: -1300px;
+    margin: auto;
+}
+
+.box_ti1 > h1{
+     font-size: 45px;
+}
+
+.box_ti1 > p {
+    font-size: 37px;
+}
+
+.copbox1{
+    position: relative;
+    top: -770px;
+    left: -500px;
+    float: right;
+    width: 800px;
+    height: 150px;
+    border: 1px solid;
+    border-color: rgba(42, 42, 42, 0.1);
+    border-radius: 8px;
+}
+
+.tw-text{
+    font-size: 31px;
+    position: relative;
+    left: 20px;
+    top: 15px;
+}
+
+.cout-text{
+    font-size: 35px;
+    position: relative;
+    top: 70px;
+    left: -143px;
+    font-weight: bold;
+}
+
+
+.coupimg{
+    min-width: 150px;
+    height: 60px;
+    color: #fff;
+    background: #4f4f4f;
+    border-color: #4f4f4f;
+    border-width: 1px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 6px;
+    float: right;
+    position: relative;
+    left: -80px;
+    top: -5px;
+}
+
+.co-text{
+    font-size: 25px;
+}
+
+.content1{
+    width: 800px;
+    height: 200px;
+    float: right;
+    position: relative;
+    top: -560px;
+    left: 300px;
+    border-top: 1px solid;
+    border-color: rgba(42, 42, 42, 0.1);
+}
+
+.content-text{
+  font-size: 27px;
+  position: relative;
+  top: 35px;
+}
+
+.sub_right23{
+     width: 900px;
+     height: 200px;
+     position: relative;
+     top: -390px;
+     left: 1200px;
+     float: right;
+}
+
+.bey{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.point{
+ font-size: 20px;
+ position: relative;
+ top: -35px;
+ left: 130px;
+}
+
+.opt_block{
+    background-color: rgba(42, 42, 42, 0.03);
+    width: 800px;
+    height: 200px;
+    float: right;
+    position: relative;
+    left: 2000px;
+    top: -160px;
+}
+
+.coun{
+    height: 100px;
+    border-bottom: dotted rgba(42, 42, 42, 0.03);
+    font-size: 30px;
+    }
+
+    .coun_text{
+        position: relative;
+        top: 25px;
+        left: 25px;
+    }
+
+    .count{
+        width: 200px;
+        height: 70px;
+        margin-top: 25px;
+        margin-left: 30px;
+    }
+
+    .input-group{
+        width: 170px;
+    }
+
+    .area_price{
+    float: right;
+    width: 70px;
+    position: relative;
+    left: 540px;
+    top: -45px;
+    font-size: 35px;
+    }
+
+    .no-ma1{
+        width: 790px;
+        height: 100px;
+        float: right;
+        position: relative;
+        left: -920px;
+        top: -140px;
+    }
+
+
+    .total-amount{
+      font-size: 27px;
+      position: relative;
+      top: 27px;
+      left: 10px;
+    }
+
+    .total_con{
+        float: right;
+        font-size: 27px;
+        position: relative;
+        top: 28px;
+        left: -10px;
+    }
+
+    .buy_btns1{
+        width: 800px;
+        height: 120px;
+        font-size: 30px;
+        position: relative;
+        top: -5px;
+        left: -40px;
+        float: right;
+    }
+
+
+.car{
+    font-size: 30px;
+    font-weight: bold;
+    position: relative;
+    top: -32px;
+}
+
+.car2{
+   font-size: 20px;
+   
+   position: relative;
+   top: -67px;
+   left: 140px; 
+}
+
+.car3{
+    font-size: 30px;
+    font-weight: bold;
+    position: relative;
+    top: -60px;
+}
+
+.car4{
+    font-size: 20px;
+    position: relative;
+    left: 110px;
+    top: -95px;
+
+}
+
+.car5{
+    font-size: 30px;
+    font-weight: bold;
+    position: relative;
+    top: -82px;
+}
+
+.car6{
+    font-size: 20px;
+    position: relative;
+    top: -118px;
+    left: 130px;
+    
+}
+
+.naver1{
+    width: 800px;
+    height: 100px;
+    float: right;
+    position: relative;
+    top: 120px;
+    left: 650px;
+}
+
+.nav_wlq{
+    border: 1px solid #e5e5e5;
+    width: 100px;
+    height: 100px;
+    float: right;
+   
+}
+
+
+.Wla{
+    font-size: 40px;
+    position: relative;
+    top: 15px;
+    left: 28px;
+}
+
+.mb-3{
+    position: relative;
+    top: 400px;
+    left: 300px;
+    width: 1700px;
+}
+
+.tab-content{
+    position: relative;
+    top: 780px;
+    left: 900px;
+}
+
+.cash{
+  width: 320px;
+  height: 100px;
+  font-size: 30px;
+}
+
+.car_lig{
+    width: 320px;
+    height: 100px;
+    font-size: 30px;
+    margin-left: 20px;
+}
+
+.show_goods{
+    width: 1000px;
+    height: 160px;
+    position: relative;
+    left: 786px;
+    top: 20px;
+}
+
+.show_goods > img{
+    width: 170px;
+    height: 160px;
+    margin-left: 15px;
+}

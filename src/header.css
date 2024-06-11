@@ -1,0 +1,98 @@
+a{
+  color: black;
+}
+
+.modal-content {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 800px;
+    height: 700px;
+    pointer-events: auto;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid rgba(0, 0, 0, .2);
+    border-radius: .3rem;
+    outline: 0;
+    left: -200px;
+}
+
+.nav_title {
+  color: black; /* 원하는 색상으로 변경 */
+  text-decoration: none; /* 밑줄 제거 */
+}
+
+/* .logolink의 기본 색상을 변경하고 밑줄을 제거 */
+.logolink {
+  color: black; /* 원하는 색상으로 변경 */
+  text-decoration: none; /* 밑줄 제거 */
+}
+
+.text_list {
+
+    display: flex;
+    gap: 10px; /* 요소들 사이의 간격을 설정할 수 있습니다 */
+  }
+  
+  .text_list input {
+    flex: 1; /* 각 입력 필드가 같은 비율로 확장되도록 설정합니다 */;  
+}
+
+  .id{
+    width: 700px;
+    height: 80px;
+    font-size: 30px;
+    margin-bottom: 10px;
+  }
+  .password{
+    position: relative;
+    font-size: 30px;
+    width: 700px;
+    height: 80px;
+  }
+
+  .btn_login {
+    border: 1px solid #666;
+    color: #666;
+    font-size: 20px;
+    width: 700px;
+    height: 75px;
+    margin-top: 10px;
+}
+
+label {
+    display: inline-block;
+    font-size: 20px;
+    /* width: 0px; */
+}
+
+.over_h{
+    margin-top: 10px;
+    width: 700px;
+    height: 70px;
+    border-bottom: 1px solid #e7eaee;
+}
+
+.float_l{
+ font-size: 25px;
+ text-decoration: none;
+ color: black;
+}
+.float_r{
+    font-size: 25px;
+    text-decoration: none;
+    color: black;
+    float: right;
+   }
+
+   .qlgodnjs_btn{
+    width: 700px;
+    height: 90px;
+    font-size: 40px;
+   }
+
+.btn {
+    border: 1px solid #666;
+    color: #666;
+    font-size: 35px;
+   }

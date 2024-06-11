@@ -1,0 +1,15 @@
+
+.ros{
+overflow: hidden;
+width: 2400px;
+
+}
+
+.swiper-wrapper{
+  display: flex;
+  align-items: center;
+  width: 3000px;
+
+ 
+}
+
