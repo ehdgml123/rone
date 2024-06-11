@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rone/static/css/main.93d7a134.css",
+    "main.js": "/rone/static/js/main.85abe08f.js",
+    "static/js/453.26c6033f.chunk.js": "/rone/static/js/453.26c6033f.chunk.js",
+    "index.html": "/rone/index.html",
+    "main.93d7a134.css.map": "/rone/static/css/main.93d7a134.css.map",
+    "main.85abe08f.js.map": "/rone/static/js/main.85abe08f.js.map",
+    "453.26c6033f.chunk.js.map": "/rone/static/js/453.26c6033f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93d7a134.css",
+    "static/js/main.85abe08f.js"
+  ]
+}
