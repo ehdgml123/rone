@@ -24,6 +24,7 @@
   ## 🎇 주요기능 실행화면
 
   * **메인 페이지**
+    
      ![ezgif com-video-to-gif-converter (11)](https://github.com/user-attachments/assets/a9e9d69e-e067-4966-ae89-2d6db3bd6c1c)
 
   * **상품 상세페이지 및 상품 장바구니 추가**
